@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406712549259",
+    "project_id": "androiddiary-danvolles",
+    "storage_bucket": "androiddiary-danvolles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406712549259:android:286e357d68c4aa9aa1f98e",
+        "android_client_info": {
+          "package_name": "com.example.androiddiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406712549259-vn4ok4sltfck4fc8j33he7noj095sria.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCyFLywqdTilco8-6bBSLY4tI7A90s70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406712549259-vn4ok4sltfck4fc8j33he7noj095sria.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

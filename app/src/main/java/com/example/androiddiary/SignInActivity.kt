@@ -19,6 +19,7 @@ class SignInActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         firebaseAuth = FirebaseAuth.getInstance()
+
         binding.signUpOption.setOnClickListener {
             startSignUpActivity()
         }

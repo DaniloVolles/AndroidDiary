@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.widget.Toast
 import com.example.androiddiary.databinding.ActivitySignUpBinding
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.FirebaseFirestore
 import kotlinx.android.synthetic.main.activity_sign_up.*
 
 class SignUpActivity : AppCompatActivity() {
@@ -50,7 +51,7 @@ class SignUpActivity : AppCompatActivity() {
                     Toast.makeText(this, "Password do not match", Toast.LENGTH_SHORT).show()
                 }
             } else {
-                Toast.makeText(this, "Empty fields are not allowed!", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Empty or blank fields are not allowed!", Toast.LENGTH_SHORT).show()
 
             }
         }

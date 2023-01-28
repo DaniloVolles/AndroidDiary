@@ -8,7 +8,7 @@
 
     <!-- SingleLine - Essa propriedade autoriza quebra de linha -->
     <EditText
-        android:id="@+id/editTextTextMultiLine"
+        android:id="@+id/DiarySheet"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:ems="10"

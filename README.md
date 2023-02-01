@@ -10,3 +10,6 @@
 - Open the project with Android Studio
 - Using Android Studio, run the android emulator with api 27 or newer.
 - Then, run the project in the emulator.
+
+## Project highlight
+![AndroidDiaryHighlight](https://user-images.githubusercontent.com/107259505/215920325-36a2aaa1-ac68-4d16-9ff9-118b9192e361.PNG)
